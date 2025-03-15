@@ -1,4 +1,4 @@
-# Docker Installation Guide for Fedora, Debian and Ubuntu
+# Docker manual installation for Debian Ubuntu and Fedora
 
 **Download the installation script from source**
 ```
